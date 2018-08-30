@@ -1,0 +1,8 @@
+version: 0.0.3
+files:
+  - url: moovix-setup-0.0.3.exe
+    sha512: pDd4hJIVbEwaS8c5EQYZRR+gvGauo5F/hRs7YdU5Wswad/birbI3aZHxI2DwQMeQs8CFIKPYiyoVsCpiACrFkA==
+    size: 32867395
+path: moovix-setup-0.0.3.exe
+sha512: pDd4hJIVbEwaS8c5EQYZRR+gvGauo5F/hRs7YdU5Wswad/birbI3aZHxI2DwQMeQs8CFIKPYiyoVsCpiACrFkA==
+releaseDate: '2018-08-30T00:16:11.951Z'
